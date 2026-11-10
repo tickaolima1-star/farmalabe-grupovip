@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/zap", "destination": "https://chat.whatsapp.com/Ih9d8LeQ4cc4KWy4j7Dj0c?s=sh&p=a&mlu=4&ilr=4&iam=2", "permanent": false }
+    { "source": "/", "destination": "https://chat.whatsapp.com/Ih9d8LeQ4cc4KWy4j7Dj0c?s=sh&p=a&mlu=4&ilr=4&iam=2", "permanent": false }
   ]
 }
